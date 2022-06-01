@@ -1,4 +1,4 @@
-## <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Olá, meu nome é Marcus Gabriel!</p>
+## <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25px height=40px>Olá, meu nome é Marcus Gabriel!</p>
 <p align="center">Bem vindo ao meu perfil GitHub 😁</p>
 
 <hr>
