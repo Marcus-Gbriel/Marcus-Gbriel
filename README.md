@@ -35,7 +35,7 @@
       src="https://github-readme-stats.vercel.app/api?username=Marcus-Gbriel&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
     />
   </a>
-  <a href="https://github.com/Marcus-Gbriel">
+  <a href="https://github.com/seu-usuario">
     <img
       align="center"
       height="150em"
