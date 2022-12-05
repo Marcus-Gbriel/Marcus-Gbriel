@@ -10,7 +10,7 @@
         <img src="https://user-images.githubusercontent.com/94924705/166115955-3216741a-9c51-4dda-9db9-d7102f28f362.gif"/>
         </p>
   <hr>
-<p align="center">Atualmente estudando HTML5, CSS3 e JavaScript 📘🧑‍💻</p>
+<p align="center">Atualmente estudando C++, C# e .NET 📘🧑‍💻</p>
 <p align="center"> 
      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
